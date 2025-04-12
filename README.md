@@ -41,9 +41,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AXONDEMON&show_icons=true&theme=radical" alt="Harsh Agarwal's GitHub Stats" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AXONDEMON&layout=compact&theme=radical" alt="Top Languages" />
