@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hi there, I'm Harsh Agarwal</h1>
 <p align="center">
-  🔐 Cybersecurity &nbsp;|&nbsp; ⚙️ Blockchain &nbsp;|&nbsp; ☁️ Fog Computing &nbsp;|&nbsp; 💡 Secure IoT Enthusiast <br>
+  🔎 Data Analytics &nbsp;|&nbsp; ⚙️ Machine Learning &nbsp;|&nbsp; ☁️ Cloud & Fog Computing &nbsp;|&nbsp; 💡 Secure IoT & Web Dev Enthusiast <br>
   🎓 B.Tech CSE | Manipal University Jaipur <br>
   🧠 Passionate about Deep Learning, Backend Dev, and Data Analytics <br><br>
   📬 Reach me at: <a href="mailto:agarwalharsh031@gmail.com">agarwalharsh031@gmail.com</a> | 
