@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Harsh Agarwal 👋</h1>
+<marquee><h1>👋 Hi there, I'm Harsh Agarwal</h1></marquee>
 
 <p align="center">
   🔐 Cybersecurity | ⚙️ Blockchain | ☁️ Fog Computing | 💡 Secure IoT Enthusiast <br>
