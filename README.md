@@ -1,9 +1,6 @@
-<div align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Harsh+Agarwal+👋;Cybersecurity+%7C+Blockchain+%7C+Fog+Computing;Secure+IoT+%7C+ML+%7C+Backend+Dev" 
-    alt="Typing SVG"
-  />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Harsh+Agarwal+👋;Cybersecurity+%7C+Blockchain+%7C+Fog+Computing;Secure+IoT+%7C+ML+%7C+Backend+Dev" alt="Typing SVG" />
+</p>
 
 <h1 align="center">👋 Hi there, I'm Harsh Agarwal</h1>
 <p align="center">
